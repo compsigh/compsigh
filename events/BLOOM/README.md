@@ -2,7 +2,7 @@
 
 ## Venue
 
-- [ ] Secure the Social Hive for the weekend
+- [x] Secure the Social Hive for the weekend
 
 ## Judges
 
