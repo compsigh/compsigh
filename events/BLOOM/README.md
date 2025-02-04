@@ -126,13 +126,13 @@ staging / mixer. More details pending.
 
 ASAP:
 
-- [ ] What, when, where
+- [x] What, when, where
 - [ ] Eligibility
 - [ ] Types of projects ("Submissions" from DEPLOY/24)
 - [ ] Rule re: AI
 - [ ] General agenda
 - [ ] staging
-- [ ] Add to calendar (.ics, Google)
+- [x] Add to calendar (Google at minimum)
 
 Later:
 
@@ -140,12 +140,7 @@ Later:
 - [ ] Idea generator — e.g. (a documentary) about (a local SF startup)
 - [ ] Team queue (especially good for cross-major connection)
 - [ ] Toolbox — basically the page with the same name from Edward's site + an expanded version of DEPLOY Resources section that includes tools, how-tos, and other fun things
-
-Domains in consideration:
-
-- bloom.build
-- bloomhack.com
-- bloom.compsigh.club
+- [x] Club socials
 
 ## Keynote
 
