@@ -142,6 +142,12 @@ Later:
 - [ ] Toolbox — basically the page with the same name from Edward's site + an expanded version of DEPLOY Resources section that includes tools, how-tos, and other fun things
 - [x] Club socials
 
+Fun ideas:
+
+- Large pixel cursor
+- Bitmap pictures from DEPLOY/24, reveal on hover
+- Buttons/toasts matching Jet's poster design
+
 ## Keynote
 
 ## Merch
