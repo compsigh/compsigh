@@ -99,7 +99,7 @@ The plan is to provide food for:
 
 ## Agenda
 
-### Friday, February 14th
+### Friday, February 21st
 
 staging / mixer. More details pending.
 
