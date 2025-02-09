@@ -74,27 +74,19 @@ The plan is to provide food for:
 
 ## Promo & outreach
 
-- [ ] Create 11 × 14 flyer
-- [ ] Create 16:9 banner for the TVs
-- [ ] Request banner to be displayed on the TVs
-- [ ] Post on Instagram
-- [ ] Create Discord announcement
-- [ ] Post Instagram story of post and add to highlights
-- [ ] Ping `@announcements` and `@events`
-- [ ] Print and put up flyers
-    - [ ] Bulletin board outside staircase
-    - [ ] Flight leading up to 4th floor
-    - [ ] 411
-    - [ ] 413
-- [ ] Ask Jocelyn to send out announcement
+- [ ] [Design, print, and put up posters](https://github.com/compsigh/compsigh/issues/11)
+- [ ] [Reach out to professors and promote in classes](https://github.com/compsigh/compsigh/issues/1)
+- [ ] [Post on Instagram](https://github.com/compsigh/compsigh/issues/24)
+- [ ] [Send Discord announcement](https://github.com/compsigh/compsigh/issues/25)
+- [ ] [Ask Jocelyn to send out announcement](https://github.com/compsigh/compsigh/issues/31)
+- [ ] [Send profs promo material](https://github.com/compsigh/compsigh/issues/30)
+- [ ] Create 16:9 banner for the TVs and request display
 - [ ] Ask John from E&I to send out announcement
 - [ ] Ask Christine from Mathematics to send out announcement
 - [ ] Ask Noopur from Design to send out announcement
 - [ ] Ask Samantha from Engineering to send out announcement
 - [ ] Reach out to someone from CAS to send out announcement to the entire college
-- [ ] Link compsigh web platform event to BLOOM platform
-- [ ] Reach out to professors and promote in classes
-- [ ] Send profs promo material
+- [ ] Event entry on compsigh web platform
 - [ ] [Request mention in the Phoenix](https://docs.google.com/forms/d/e/1FAIpQLScWKWlOVSR_ml85Y0-NKSXUdYFdP2S9aRZj1sUvhh_3z-FO1A/viewform)
 
 ## Agenda
@@ -172,7 +164,7 @@ Fun ideas:
 - Free yourself from AI slop
 - A return to form
 - The hackathon for the arts & sciences
-    - Dramatically expand the net of people that can attend — basically all students in CAS
+  - Dramatically expand the net of people that can attend — basically all students in CAS
 - Art/design: Great Wave (+ other famous artworks) bitmapped
 - Artwork by Ray (Instagram)
 
@@ -181,11 +173,11 @@ Fun ideas:
 We're not doing one, but here are the notes from brainstorming:
 
 - Hype trailer
-    - IRL val champs style cinematic with top teams from DEPLOY/24 "come take the crown" type shit
-    - DEMONS OTG trailer music
+  - IRL val champs style cinematic with top teams from DEPLOY/24 "come take the crown" type shit
+  - DEMONS OTG trailer music
 - Explainer trailer
-    - Invite our friends who are doing both CS and something else that's interesting
-        - Faadil
-        - Sanju
-    - People put CS and the work that we do in a box. Not everything has to be an app. Certainly not everything has to be AI. Research papers. Discovering a bug; making an open-source contribution. And what happens when we intersect with humanities? Documentaries. Music. Our potential is a lot greater than we give ourselves credit for.
-    - À la MasterClass almost lol
+  - Invite our friends who are doing both CS and something else that's interesting
+    - Faadil
+    - Sanju
+  - People put CS and the work that we do in a box. Not everything has to be an app. Certainly not everything has to be AI. Research papers. Discovering a bug; making an open-source contribution. And what happens when we intersect with humanities? Documentaries. Music. Our potential is a lot greater than we give ourselves credit for.
+  - À la MasterClass almost lol
