@@ -10,14 +10,16 @@ No profs this time; people from industry, alums, and other cool people
 
 ### People to ask
 
-- G
-- Evil
-- Parsa
-- Frank
 - Sean
 - Chloe
 
 ### People we've asked
+
+- G
+- Evil
+- Parsa
+- Frank
+- Maleke
 
 ### Guests who've agreed to judge
 
