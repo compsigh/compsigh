@@ -17,11 +17,12 @@ No profs this time; people from industry, alums, and other cool people
 
 - G
 - Evil
-- Parsa
 - Frank
-- Maleke
 
 ### Guests who've agreed to judge
+
+- Parsa
+- Maleke (if in SF at the same time)
 
 ### Unavailable
 
