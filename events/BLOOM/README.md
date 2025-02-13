@@ -77,20 +77,16 @@ The plan is to provide food for:
 
 ## Promo & outreach
 
-- [ ] [Design, print, and put up posters](https://github.com/compsigh/compsigh/issues/11)
-- [ ] [Reach out to professors and promote in classes](https://github.com/compsigh/compsigh/issues/1)
-- [ ] [Post on Instagram](https://github.com/compsigh/compsigh/issues/24)
-- [ ] [Send Discord announcement](https://github.com/compsigh/compsigh/issues/25)
-- [ ] [Ask Jocelyn to send out announcement](https://github.com/compsigh/compsigh/issues/31)
-- [ ] [Send profs promo material](https://github.com/compsigh/compsigh/issues/30)
-- [ ] Create 16:9 banner for the TVs and request display
-- [ ] Ask John from E&I to send out announcement
-- [ ] Ask Christine from Mathematics to send out announcement
-- [ ] Ask Noopur from Design to send out announcement
-- [ ] Ask Samantha from Engineering to send out announcement
-- [ ] Reach out to someone from CAS to send out announcement to the entire college
-- [ ] Event entry on compsigh web platform
-- [ ] [Request mention in the Phoenix](https://docs.google.com/forms/d/e/1FAIpQLScWKWlOVSR_ml85Y0-NKSXUdYFdP2S9aRZj1sUvhh_3z-FO1A/viewform)
+- [Design, print, and put up posters](https://github.com/compsigh/compsigh/issues/11)
+- [Reach out to professors and promote in classes](https://github.com/compsigh/compsigh/issues/1)
+- [Post on Instagram](https://github.com/compsigh/compsigh/issues/24)
+- [Send Discord announcement](https://github.com/compsigh/compsigh/issues/25)
+- [Ask Jocelyn to send out announcement](https://github.com/compsigh/compsigh/issues/31)
+- [Send profs promo material](https://github.com/compsigh/compsigh/issues/30)
+- [Reach out to other departments and programs in the College of Arts & Sciences](https://github.com/compsigh/compsigh/issues/33)
+- [Event entry on compsigh web platform](https://github.com/compsigh/web/pull/22)
+- Create 16:9 banner for the TVs and request display
+- [Request mention in the Phoenix](https://docs.google.com/forms/d/e/1FAIpQLScWKWlOVSR_ml85Y0-NKSXUdYFdP2S9aRZj1sUvhh_3z-FO1A/viewform)
 
 ## Agenda
 
