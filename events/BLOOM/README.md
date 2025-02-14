@@ -16,12 +16,12 @@ No profs this time; people from industry, alums, and other cool people
 ### People we've asked
 
 - G
-- Evil
-- Frank
+- Evil (checking his availability)
 
 ### Guests who've agreed to judge
 
 - Parsa
+- Frank
 - Maleke (if in SF at the same time)
 
 ### Unavailable
