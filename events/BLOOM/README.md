@@ -41,7 +41,12 @@ We'll continue to not offer cash prizes.
 Some ideas for this year's prizes:
 
 - Discord Nitro
-- Something physical?
+- Subscription or membership to an educational thing
+- Plushie of Edward's cat
+- Spotify / Apple Music / YouTube Premium
+- compsigh-branded USB-C cable
+- compsigh-branded SSD
+- compsigh/BLOOM merch
 
 ## Trophy
 
