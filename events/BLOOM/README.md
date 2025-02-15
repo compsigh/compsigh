@@ -80,6 +80,12 @@ The plan is to provide food for:
 - Throughout day two; snacks and such
 - Presentation day, before presentations, around 12pm; lunch
 
+Ideas for catering:
+
+- Toast & Egg
+- Pineapple King Bakery
+- Mr Singh's Curry Pizza
+
 ## Promo & outreach
 
 - [Design, print, and put up posters](https://github.com/compsigh/compsigh/issues/11)
