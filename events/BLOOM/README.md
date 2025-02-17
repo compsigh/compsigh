@@ -129,9 +129,9 @@ staging / mixer. More details pending.
 ASAP:
 
 - [x] What, when, where
-- [ ] Eligibility
-- [ ] Types of projects ("Submissions" from DEPLOY/24)
-- [ ] Rule re: AI
+- [x] Eligibility
+- [x] Types of projects ("Submissions" from DEPLOY/24)
+- [x] Rule re: AI
 - [ ] General agenda
 - [ ] staging
 - [x] Add to calendar (Google at minimum)
