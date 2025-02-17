@@ -46,7 +46,7 @@ Some ideas for this year's prizes:
 - Spotify / Apple Music / YouTube Premium
 - compsigh-branded USB-C cable
 - compsigh-branded SSD
-- compsigh/BLOOM merch
+- [compsigh/BLOOM merch](https://github.com/compsigh/compsigh/issues/36)
 
 ## Trophy
 
@@ -154,9 +154,7 @@ Fun ideas:
 
 ## Merch
 
-- T-shirts
-- Stickers
-- Hoodie
+We're giving out some merch to attendees, as well as winners. See the [GitHub issue](https://github.com/compsigh/compsigh/issues/36) for details.
 
 ## Links
 
