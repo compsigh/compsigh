@@ -11,7 +11,6 @@ No profs this time; people from industry, alums, and other cool people
 ### People to ask
 
 - Sean
-- Chloe
 
 ### People we've asked
 
@@ -22,9 +21,10 @@ No profs this time; people from industry, alums, and other cool people
 
 - Parsa
 - Frank
-- Maleke (if in SF at the same time)
 
 ### Unavailable
+
+- Maleke
 
 ## Extra credit
 
