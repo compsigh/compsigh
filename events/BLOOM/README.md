@@ -132,17 +132,20 @@ ASAP:
 - [x] Eligibility
 - [x] Types of projects ("Submissions" from DEPLOY/24)
 - [x] Rule re: AI
-- [ ] General agenda
-- [ ] staging
+- [x] General agenda
+- [x] staging plug
 - [x] Add to calendar (Google at minimum)
 
 Later:
 
-- [ ] More info: presentations, vibe check / what judges are looking at, prizes
+- [ ] Presentations
+- [x] Vibe check / what judges are looking at
+- [ ] Prizes
+- [ ] Mention food
 - [ ] Idea generator — e.g. (a documentary) about (a local SF startup)
-- [ ] Team queue (especially good for cross-major connection)
 - [ ] Toolbox — basically the page with the same name from Edward's site + an expanded version of DEPLOY Resources section that includes tools, how-tos, and other fun things
 - [x] Club socials
+- [ ] ~~Team queue (especially good for cross-major connection)~~
 
 Fun ideas:
 
