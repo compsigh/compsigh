@@ -16,6 +16,7 @@ No profs this time; people from industry, alums, and other cool people
 
 - G
 - Evil (checking his availability)
+- JJ
 
 ### Guests who've agreed to judge
 
