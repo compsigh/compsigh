@@ -110,11 +110,11 @@ staging / mixer. More details pending.
 
 - 06:00pm: Doors open, registration & check-in begins
 - 06:30pm: Opening keynote & dinner
-- 07:00pm: Hacking & looking-for-group begins
+- 07:00pm: Hacking begins
 
 ### Saturday, March 1st
 
-- 11:00am: Office hours — chill social, light lunch, and getting help/advice from organizers/other teams on React & Next.js, design, presentations, and other topics of interest
+- 11:00am: Office hours — chill social, light lunch, and getting help/advice from organizers/other teams
 
 ### Sunday, March 2nd
 
@@ -139,10 +139,9 @@ ASAP:
 
 Later:
 
-- [ ] Presentations
 - [x] Vibe check / what judges are looking at
-- [ ] Prizes
-- [ ] Mention food
+- [x] Mention prizes
+- [x] Mention food
 - [ ] Idea generator — e.g. (a documentary) about (a local SF startup)
 - [ ] Toolbox — basically the page with the same name from Edward's site + an expanded version of DEPLOY Resources section that includes tools, how-tos, and other fun things
 - [x] Club socials
