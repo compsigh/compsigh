@@ -109,7 +109,7 @@ staging / mixer. More details pending.
 
 ### Friday, February 28th
 
-- 06:00pm: Doors open, registration & check-in begins
+- 06:00pm: Doors open, check-in begins
 - 06:30pm: Opening keynote & dinner
 - 07:00pm: Hacking begins
 
