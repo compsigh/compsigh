@@ -8,25 +8,7 @@
 
 No profs this time; people from industry, alums, and other cool people
 
-### People to ask
-
-- Sean
-
-### People we've asked
-
-- G
-- Evil (checking his availability)
-- JJ
-- Chloe (checking her availability)
-
-### Guests who've agreed to judge
-
-- Parsa
-- Frank
-
-### Unavailable
-
-- Maleke
+Moved tracking status of judges to the [issue](https://github.com/compsigh/compsigh/issues/43)
 
 ## Extra credit
 
