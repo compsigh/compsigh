@@ -125,9 +125,9 @@ Later:
 - [x] Vibe check / what judges are looking at
 - [x] Mention prizes
 - [x] Mention food
-- [ ] Idea generator — e.g. (a documentary) about (a local SF startup)
-- [ ] Toolbox — basically the page with the same name from Edward's site + an expanded version of DEPLOY Resources section that includes tools, how-tos, and other fun things
 - [x] Club socials
+- [ ] ~~Idea generator — e.g. (a documentary) about (a local SF startup)~~
+- [ ] ~~Toolbox — basically the page with the same name from Edward's site + an expanded version of DEPLOY Resources section that includes tools, how-tos, and other fun things~~
 - [ ] ~~Team queue (especially good for cross-major connection)~~
 
 Fun ideas:
