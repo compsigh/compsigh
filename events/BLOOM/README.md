@@ -85,28 +85,8 @@ Ideas for catering:
 
 ## Agenda
 
-### Friday, February 21st
-
-staging / mixer. More details pending.
-
-### Friday, February 28th
-
-- 06:00pm: Doors open, check-in begins
-- 06:30pm: Opening keynote & dinner
-- 07:00pm: Hacking begins
-
-### Saturday, March 1st
-
-- 11:00am: Office hours — chill social, light lunch, and getting help/advice from organizers/other teams
-
-### Sunday, March 2nd
-
-- 11:30am: Project submission deadline
-- 12:00pm: Lunch & presentation day check-in begins
-- 01:00pm: Presentations begin
-- 02:00pm: Intermission
-- 02:20pm: Presentations continue
-- 04:00pm: Closing keynote; results announced
+- Friday, February 21st: [compsigh staging](https://compsigh.club/events/2025-02-21/staging)
+- For the full agenda, see the [BLOOM platform](https://bloom.build/agenda)
 
 ## Web platform
 
