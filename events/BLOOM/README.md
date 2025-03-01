@@ -22,15 +22,24 @@ We'll continue with the top-three format + people's choice, as well as a trophy 
 
 We'll continue to not offer cash prizes.
 
-Some ideas for this year's prizes:
+First place:
 
-- Discord Nitro
-- Subscription or membership to an educational thing
-- Plushie of Edward's cat
-- Spotify / Apple Music / YouTube Premium
-- compsigh-branded USB-C cable
-- compsigh-branded SSD
 - [compsigh/BLOOM merch](https://github.com/compsigh/compsigh/issues/36)
+- Automatic approval for $200 microgrant to work on your project
+- Discord Nitro or subscription or membership to an educational or creative software up to $100
+
+Second place:
+
+- Automatic approval for $200 microgrant to work on your project
+- Discord Nitro or subscription or membership to an educational or creative software up to $100
+
+Third place:
+
+- Automatic approval for $200 microgrant to work on your project
+
+People's Choice:
+
+- Plushie of Edward's cat
 
 ## Trophy
 
